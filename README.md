@@ -96,7 +96,7 @@ I logged into Client-1 as “mydomain.com\jane_admin,” opened the system prope
 <br />
 
 <p>
-<img src="https://i.gyazo.com/11964035344b020198c4f5161f7c305f.png" height="80%" width="80%" alt="Configure Active Directory"/>
+<img src="https://i.gyazo.com/b04d09fd31c9d6439770daea630563d6.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
 <img src="https://i.gyazo.com/fc83569296840d1e9fc7ffc2e60cfb62.jpg" height="80%" width="80%" alt="Configure Active Directory"/>
