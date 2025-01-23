@@ -111,6 +111,6 @@ I logged into Client-1 as “mydomain.com\jane_admin,” opened the system prope
 <img src="https://i.gyazo.com/5998533342177beb20791fe9780d23d5.jpg" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-Finally, I logged back into DC-1 as “jane_admin,” opened PowerShell_ise as an administrator, created a new file, and pasted the contents of the script into it. I ran the script and observed the accounts being created. Once finished, I opened ADUC to confirm that the accounts appeared in the “_EMPLOYEES” OU. I then attempted to log into Client-1 using one of the newly created accounts, making sure to use the password from the script.
+Finally, I logged back into DC-1 as “jane_admin,” opened PowerShell_ise as an administrator, created a new file, and pasted the script into it. The script was designed to automate the creation of new user accounts, and once I ran it, I observed the accounts being generated. After the script finished running, I opened ADUC to verify that the newly created accounts appeared in the “_EMPLOYEES” OU. To test, I attempted to log into Client-1 using one of the newly created accounts, ensuring I used the correct password from the script.
 </p>
 <br />
