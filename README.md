@@ -74,6 +74,9 @@ Next, in Active Directory Users and Computers (ADUC), I created two Organization
 <img src="https://i.gyazo.com/686d6bd90edd43f49ae5b8601d6a7fee.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
+<img src="https://i.gyazo.com/3aa82fecc8b145cc679638212577bd3b.jpg" height="80%" width="80%" alt="Configure Active Directory"/>
+</p>
+<p>
 <img src="https://i.gyazo.com/390b644a236d191e45e64b7e10352158.png" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
