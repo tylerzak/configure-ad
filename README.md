@@ -40,7 +40,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.gyazo.com/3aa82fecc8b145cc679638212577bd3b.jpg" height="80%" width="80%" alt="Configure Active Directory"/>
 </p>
 <p>
-To begin, I logged into DC-1 and installed Active Directory Domain Services. During the promotion process, I set up a new forest with the domain name “mydomain.com.” After the promotion, I restarted the server and logged back in as “mydomain.com\labuser.”
+To begin, I logged into DC-1 and installed Active Directory Domain Services. During the configuration process, I set up a new forest with the domain name “mydomain.com.” After the promotion, I restarted the server and logged back in as “mydomain.com\labuser.”
 </p>
 <br />
 
